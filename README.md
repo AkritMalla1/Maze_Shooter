@@ -12,21 +12,20 @@ Reach the heart of the arena to face the Final Boss and earn your freedom.
 **Epic Boss Finale:** A multi-stage showdown against Scorp the Devourer (Final Boss) that tests everything you've learned.  
 **Immersive Environment:** Illuminated Dark Fantasy.
 
-### 🕹️ Gameplay
-**Objectives**  
-Explore:	Navigate the 3D puzzle environment to find the exit.  
-Survive:	Use your arsenal to take down flying enemies.  
-Conquer:	Defeat the Final Boss to clear the level.  
+### 🕹️ Gameplay & Objectives
+**Explore:**	Navigate the 3D puzzle environment to find the exit.  
+**Survive:**	Use your arsenal to take down flying enemies.  
+**Conquer:**	Defeat the Final Boss to clear the level.  
 
 ### 🛠️ Controls
-WASD: Movement  
-Mouse: Aim & Shoot  
-Space: Jump  
-Shift: Sprint
-MouseScroll & 1234: Toggle Weapons
+**WASD:** Movement  
+**Mouse:** Aim & Shoot  
+**Space:** Jump  
+**Shift:** Sprint
+**MouseScroll & 1234:** Toggle Weapons
 
 ### 📥 Installation
-1. Download the Maze Shooter_v1.exe
+1. Download the [Maze Shooter_v1.exe](https://github.com/AkritMalla1/Maze_Shooter/blob/master/Maze%20Shooter_v1.exe)
 2. Launch the file and Go Crazy
 
 <details>
